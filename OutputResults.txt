@@ -4,8 +4,8 @@ Print All Students Method:
 Student ID: 1	First Name: John	Last Name: Smith	Email Address: John1989@gmail.com	Age: 20	Grades:[88, 79, 89]
 Student ID: 2	First Name: Suzan	Last Name: Erickson	Email Address: Erickson_1999@gmailcom	Age: 19	Grades:[91, 72, 85]
 Student ID: 3	First Name: Jack	Last Name: Napoli	Email Address: The_lawyer99yahoo.com	Age: 19	Grades:[85, 84, 87]
-Student ID: 4	First Name: Erin	Last Name: Black	Email Address: Erin.black@comcast.net	Age: 22	Grades:[91, 98, 82]
-Student ID: 5	First Name: Daniel	Last Name: Berry	Email Address: dberry8@wgu.edu	Age: 38	Grades:[91, 84, 98]
+Student ID: 4	First Name: Erin	Last Name: Black	Email Address: Erin.black@comcast.net   Age: 22	Grades:[91, 98, 82]
+Student ID: 5	First Name: Daniel	Last Name: Berry	Email Address: dberry8@wgu.edu  Age: 38 Grades:[91, 84, 98]
 
 Print Invalid Email Addresses:
 Suzan Ericksonhas an invalid email address (Erickson_1999@gmailcom)
